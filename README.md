@@ -138,6 +138,4 @@ To: linux-pci@vger.kernel.org
 Cc: linux-kernel@vger.kernel.org, linux-arm-kernel@lists.infradead.org
 Subject: [PATCH 0/2] PCI: dwc: custom-arm: reduce bus enumeration latency by 15%
 
-Reviewed-by: Lorenzo Pieralisi <lpieralisi@kernel.org>
-Acked-by:    Bjorn Helgaas <bhelgaas@google.com>
 ```
